@@ -45,4 +45,4 @@ which would result in
 ```
 
 ## Speedrun
-[![y lang speedrun](https://img.youtube.com/vi/k7DHPsvLrgw/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/k7DHPsvLrgw))
+[![y lang speedrun](https://img.youtube.com/vi/k7DHPsvLrgw/0.jpg)]([https://www.youtube.com/watch?v=k7DHPsvLrgw](https://youtu.be/k7DHPsvLrgw))
