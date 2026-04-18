@@ -31,7 +31,7 @@ y
 perhaps you want something else, maybe a different string. that would mean you need to pass it as a argument  
 
 ```bash
-./y 7a8e9
+./y y.y 7a8e9
 ```
 
 which would result in   
