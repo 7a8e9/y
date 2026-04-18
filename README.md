@@ -43,3 +43,6 @@ which would result in
 7a8e9  
 ...
 ```
+
+## Speedrun
+[![y lang speedrun](https://img.youtube.com/vi/k7DHPsvLrgw/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/k7DHPsvLrgw))
